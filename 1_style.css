@@ -22,17 +22,14 @@ body {
     justify-content: space-between;
     font-family: 'Roboto' , sans-serif;
      color:#efebeb;
-
-}
+    }
 .header{
-    
     font-size: 20px;
     background-color:rgb(235, 153, 233);
 }
 .div-container {
     max-width: 1440px;
     margin: 0 auto;
-
 }
 .item {
     display: flex;
@@ -43,29 +40,22 @@ body {
     transition: border-bottom 0.3s ease;
 }
 .item li {
-    /* cursor: pointer; */
     border-bottom: 2px solid transparent;
     transition: border-bottom 0.3s ease;
 }
-
 .item li:hover {
     border-bottom: 2px solid #3e7793;
 }
-
 .my_foto{
     width: 200px;
     height: 200px;
     object-fit: cover;
     border: 3px solid grey;
     border-radius: 50%;
-    
 }
-
 li {
     list-style: none;
- 
-}
-
+ }
 a { 
     margin-left: 10px;
     text-decoration: none;
@@ -82,11 +72,6 @@ a {
     max-width: 1440px;
     margin: 0 auto;
     background-color:rgb(235, 153, 233) ;
-
-
-
-
-
 }
 #profile{
     height: 300px;
@@ -104,12 +89,10 @@ a {
     flex-direction: column;
     flex-wrap: wrap;
     align-content: flex-start;
-    
 }
 .div-contact, #about div{
      width: 100%;
      background-color:rgb(235, 153, 233);
-  
 }
 .h2-contact, #about div, p, h2{
     padding: 20px;
@@ -117,15 +100,11 @@ a {
 .contact-ul{
     font-size: 20px;
     width: 100%;
-
 }
 .item-contact{
     color: black;
 }
-
- 
-
- p{
+p{
     color: black;
  }
  .footer{
@@ -144,7 +123,6 @@ a {
     text-align: center;
     width: 100%;
     height: 200px;
-    /* border-right: 6px solid rgb(220, 218, 218); */
 }
 .div-skills-t h2 {
     text-align: left;
@@ -157,16 +135,12 @@ a {
     width: 100%;
     height: 200px;
  }
-
-
 .school {
     width: 110px;
     height: 30px;
     background-size: contain;
     background-repeat: no-repeat;
     transform: rotate(-30deg);
-
-
 }
 #code{
     display: flex;
@@ -178,7 +152,6 @@ a {
  display: flex;
  justify-content: space-between;
  height: 150px;
-
 }
 #courses{
     margin: auto;
@@ -196,7 +169,6 @@ a {
 pre{
     font-size: 25px;
 }
-
 #footer{
     padding-top: 10px;
     color: black;
