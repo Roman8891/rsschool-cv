@@ -94,6 +94,9 @@ a {
      width: 100%;
      background-color:rgb(235, 153, 233);
 }
+.div-contact, .person{
+    color: blue;
+}
 .h2-contact, #about div, p, h2{
     padding: 20px;
 }
@@ -142,8 +145,12 @@ p{
  display: flex;
  justify-content: space-between;
  height: 150px;
+ color: blue;
 }
 #courses{
+    display: flex;
+  justify-content: center;
+  align-items: center; 
     margin: auto;
     height: 150px;
     font-size: 18px;
