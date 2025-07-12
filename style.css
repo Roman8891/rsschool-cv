@@ -116,25 +116,15 @@ p{
     padding: 25px;
     background-color: rgb(235, 153, 233);
 }
-.div-skills-t{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    text-align: center;
-    width: 100%;
-    height: 200px;
+.div-skills-t,.div-skills-s {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  cursor: pointer;
+  margin-right: 200px;
+  color: blue;
+
 }
-.div-skills-t h2 {
-    text-align: left;
-}
- .div-skills-s{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    text-align: center;
-    width: 100%;
-    height: 200px;
- }
 .school {
     width: 110px;
     height: 30px;
