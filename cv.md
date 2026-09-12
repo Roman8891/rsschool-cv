@@ -28,3 +28,28 @@ Aspiring front-end developer with fpundational skills in JavaScript and a strong
   * __Teamwork__
   * __Learning ability__
   * __Flexibility__
+
+  ***
+## `Code Example`
+```javascript
+let input = +promp("Enetr number");
+function factorial(x) {
+    if (x <= 1)
+    return 1;
+    return x * factorial(x - 1);
+}
+
+let f = factorial(input);
+console.log(input + "! = " + f)
+```
+
+***
+## Course
+* [ITVDN HTML & CSS3](https://itvdn.com/ua)
+* [JavaScript start](https://itvdn.com/ua)
+
+***
+## Languages
+  * Ukrainian
+  * Russian
+  * English - A1(A2 in process)
