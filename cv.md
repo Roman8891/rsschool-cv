@@ -13,7 +13,7 @@ __telegram:__ [@Roman88mel](https://web.telegram.org/a/)
 Aspiring front-end developer with fpundational skills in JavaScript and a strong desire to deepen my understanding of the languageand it's frameworks.Passionate about continuous learning and exploring new opportunities in the word of IT.
 
 ***
-## Technical Skillls
+## Technical Skills
   * __HTML__
   * __CSS__
   * __JavaScript__
@@ -21,3 +21,10 @@ Aspiring front-end developer with fpundational skills in JavaScript and a strong
   * __VS Code__
   * __GIT__
   * __Markdown__
+
+  ***
+## Soft Skills
+  * __Communication__
+  * __Teamwork__
+  * __Learning ability__
+  * __Flexibility__
