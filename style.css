@@ -4,3 +4,24 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@media (max-width: 768) {
+    .container {
+        width: 100%;
+    }
+}
+*{
+    box-sizing: border-box;
+} 
+html {
+  scroll-behavior: smooth;
+}
+body {
+      max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto' , sans-serif;
+     color:#efebeb;
+    }
